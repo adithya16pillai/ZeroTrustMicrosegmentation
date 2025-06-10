@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ZeroTrust MicroSegmentation Platform
 
 A modern, enterprise-grade Zero Trust Microsegmentation platform that provides granular access control and security for cloud-native environments.
