@@ -1,7 +1,5 @@
 # ZeroTrust MicroSegmentation Platform
 
-A modern, enterprise-grade Zero Trust Microsegmentation platform that provides granular access control and security for cloud-native environments.
-
 ## Features
 
 - 🔍 Dynamic Workload Discovery
@@ -91,15 +89,3 @@ docker-compose up -d
    - Traffic flow visualization
    - Anomaly detection
    - Compliance reporting
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
-=======
-# ZeroTrustMicrosegmentation
-A Zero Trust Micro segmentation provides granular access control at the workload level, preventing lateral movement of threats and reducing attack surfaces.
->>>>>>> 1596188002c352877e95a5c476852b01759e23a1
